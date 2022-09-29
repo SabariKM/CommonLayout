@@ -1,0 +1,35 @@
+/* .box{
+    width:60px;
+    height:60px;
+    background-color: #112a5a;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+progress {    
+    width: 100px;   
+    height: 10px;   
+    background: #112a5a;
+    border-radius: 50px;
+} 
+progress {   
+    color: lightblue; 
+} 
+progress::-moz-progress-bar {   
+    background: lightcolor;
+    border-radius: 50px;
+} 
+progress::-webkit-progress-value {   
+    background: #112a5a;
+    border-radius: 50px; 
+} 
+progress::-webkit-progress-bar {   
+    background: #0094fd; 
+    border-radius: 50px;
+} */
